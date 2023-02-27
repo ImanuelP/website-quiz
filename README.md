@@ -5,5 +5,3 @@ Software & hardware:  Jika anda ingin mengclone atau mengakses di local anda, An
 1. Ketika pertama kali clone file ini, Anda harus melakukan yarn install atau npm i di terminal visual basic anda.
 
 2. Setelah selesai, anda dapat menjalankan program dengan mengetik yarn dev atau npm run dev diterminal anda.
-
-3. 
